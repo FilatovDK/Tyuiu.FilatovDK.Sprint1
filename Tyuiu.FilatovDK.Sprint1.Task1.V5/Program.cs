@@ -13,7 +13,7 @@ namespace Tyuiu.FilatovDK.Sprint1.Task1.V5
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* спринт #1                                                               *");
             Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
-            Console.WriteLine("* Задание #2                                                              *");
+            Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
             Console.WriteLine("* Выполнил: Филатов Денис Константинович | СМАРТб-24-1                    *");
             Console.WriteLine("***************************************************************************");
